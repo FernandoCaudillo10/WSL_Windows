@@ -12,8 +12,8 @@ int main(){
 	c = a + b;
 	std::cout << (c < b) << std::endl;
 	std::cout << (a < b) << std::endl;
-
-	std::cout << a << std::endl;
+	std::cout << std::endl;
+	std::cout << c << std::endl;
 
 	return EXIT_SUCCESS;
 }
