@@ -1,0 +1,27 @@
+First Name,Last Name,E-mail Address
+Ekaterna,Patrice,rejenkins-brown@csumb.edu
+Garred,Murphy,gmurphy@csumb.edu
+Taha,Najees,tnajees@csumb.edu
+Mariana,Duarte,mduarte@csumb.edu
+David,Gaeta,dgaeta@csumb.edu
+Erfan,Arsula,erfanarsulaz31@gmail.com
+Gustavo,Aquiro,qaquino-bernardino@csumb.edu
+Eric,Gonzalez-Olivares,egonzalez-olivares@csumb.edu
+Patrick,Breckinridge,pbreckinridge@csumb.edu
+Shawn,Kallis,skallis@csumb.edu
+JJ,Hernandez,jhernandez1@csumb.edu
+Juslia,Le,jule@csumb.edu
+Erik,Gallardo-Cruz,egallardo-cryz@csumb.edu
+Arturo,Arenas,aarenas@csumb.edu
+Daniel,Wadell,dwadell@csumb.edu
+Noah,Ahmed,noahahmed316@gmail.com
+Jean-Christophe,Sicotte-Brisson,jsicotte-bisson@csumb.edu
+Eric,Tinoco,ertinoco@csumb.edu
+Shyam,Ratel,shyratel@csumb.edu
+Gurpremsingh,Rajpal,grajpal@csumb.edu
+Sharthak,Chhetri,schhetri@csumb.edu
+Marco,Rosales,marrosales@csumb.edu
+Joshua,Menlendez,joshmelendez@csumb.edu
+Chlow,Mendez,chmendez@csumb.edu
+Shannan,Kirby,skirby@csumb.edu
+Mooyoulug,Off,moh@csumb.edu
